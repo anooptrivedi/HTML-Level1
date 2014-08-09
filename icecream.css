@@ -1,0 +1,28 @@
+body {
+	font-family:Arial;
+	background-color: white;
+	color: black;
+}
+
+p b {
+	color: blue;
+}
+
+p i {
+	color: green;
+}
+		
+p u {
+	font-family: Verdana;
+	color: red;		
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+h3 {
+	font-family: Arial;
+	color: chocolate
+}
+		
